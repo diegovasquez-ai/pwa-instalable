@@ -78,4 +78,4 @@ Son los errores que te hacen perder una tarde porque no muestran ningún mensaje
 Hecha por **Diego Vásquez** · [@diegovasquez_ai](https://instagram.com/diegovasquez_ai)
 
 ¿Construyes con IA y quieres conseguir tu primer cliente? Entra a la lista de espera de
-**IA Builder Lab**: https://iabuilderlab-lista-espera.vercel.app
+**IA Builder Lab**: https://comunidad.iabuilderlab.com/
